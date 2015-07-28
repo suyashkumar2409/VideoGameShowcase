@@ -1,0 +1,5 @@
+possible modifications:
+
+create two holes at random times and the snake can teleport through it
+
+a timer, and if you eat again within that time, the score x increases 

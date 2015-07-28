@@ -1,0 +1,5 @@
+To play, go to GameCode/
+
+run MasterMind.exe
+
+The rules of the game can be seen from inside the game, as well as reading rules.txt

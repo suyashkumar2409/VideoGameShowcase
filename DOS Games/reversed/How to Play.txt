@@ -1,0 +1,18 @@
+Note: To play this game with proper graphics-
+1. Open main.exe
+1. Right click on the top bar(where file extension is written)
+2. click defaults
+3. In Window Size, change width to 50 and height to 60
+4. restart
+
+
+Use "A" and "D" for left and right.
+
+Navigate through the holes in the walls.
+
+If at any point, you hear a sound, it means the controls have been reversed.
+
+That means now, "D" is for left and "A" is right.
+
+
+Look at the bottom left of the screen to know whether the controls are "correct" or reversed.

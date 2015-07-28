@@ -1,0 +1,16 @@
+Note: To play this game with proper graphics-
+1. Open main.exe
+1. Right click on the top bar(where file extension is written)
+2. click defaults
+3. change width to 100 and height to 30
+4. restart
+
+This is a two player game.
+
+You are each given 50 points in the beginning. In each round, each player will write the number of points they wish to use. This will be hidden from the other player. At the end of the round if player A invested more points than player B, player A will be able to swing the ball in player B's court.
+
+If you manage to get the ball all the way to the end of the opponent's court, you win.
+
+But be careful, if you run out of points and your opponent doesn't, he will easily lob the ball in your court in subsequent rounds.
+
+So, you need to read your opponent, decide how many points he is likely to invest, and you invest slightly more than him, to conserve your points, while securing a win!

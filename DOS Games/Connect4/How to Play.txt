@@ -1,0 +1,8 @@
+In this folder, go to Game Code/dist/Connect4.bat
+
+Alternatively, in command line, navigate to the file location and type 
+java Connect4.jar
+
+You need jvm installed to play
+
+This is similar to the board game Connect 4
