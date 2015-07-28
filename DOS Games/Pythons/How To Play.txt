@@ -1,0 +1,5 @@
+This game is made in Python, which may be irrevelant as you guys are interested in c++.
+
+You need python and pygame to run this game.
+
+If you don't have these, but still want to see the game, tell me, I will figure out a way to show it to you.
