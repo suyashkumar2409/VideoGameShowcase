@@ -6,16 +6,24 @@ Direct3D:
     Vendor:   Intel
     VRAM:     32 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\projects\showTORev\Unity Game\PillMan_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\projects\showTORev\Unity Game\PillMan_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.530 seconds
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\projects\showTORev\Unity Game\PillMan_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Suyash Kumar\Documents\2dscroller\PillMan_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 1.358377 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 214.
+Total: 2.856430 ms (FindLiveObjects: 0.046855 ms CreateObjectMapping: 0.041054 ms MarkObjects: 0.469452 ms  DeleteObjects: 0.221338 ms)
+
